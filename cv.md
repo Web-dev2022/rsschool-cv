@@ -46,7 +46,7 @@
 
 ## Some of my work
 
-- [Vip-Cервис Mercedes-Benz](https://mbservice.ua) 
+- [Vip auto-service Mercedes-Benz](https://mbservice.ua) 
 - [Royal Palace Marmur](https://royalpalace-marmur.com.ua) 
 - [Armata Financial Group](http://my-portfolio.ho.ua/gfg/) 
 - [Royal Cafe](http://my-portfolio.ho.ua/cafe/) 
