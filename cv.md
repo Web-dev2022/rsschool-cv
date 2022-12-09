@@ -43,3 +43,12 @@
 - *Wordpress*
 - *October CMS*
 - *Figma*
+
+## Some of my work
+
+- [Vip-Cервис Mercedes-Benz](https://mbservice.ua) 
+- [Royal Palace Marmur](https://royalpalace-marmur.com.ua) 
+- [Armata Financial Group](http://my-portfolio.ho.ua/gfg/) 
+- [Royal Cafe](http://my-portfolio.ho.ua/cafe/) 
+- [Woodtech](http://my-portfolio.ho.ua/woodtech/) 
+- [Hounter](http://my-portfolio.ho.ua/hounter/) 
