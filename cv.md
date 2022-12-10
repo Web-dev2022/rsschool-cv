@@ -12,9 +12,9 @@
 **AGE**  *49*<br>
 **GENDER**  *Mail*<br>
 
-**About me**
+## About me
 
-Engaged in Web development. I specialize in layout and further integration with CMS Wordpress. In total, he developed about 20 projects. I have experience with backend - Laravel (2 projects). I want to eventually get into serious full-stack development React + Laravel. For this, I need good knowledge of JS, which the school gives. Before that, I used only JQuery, it was enough. My dream is to work in EPAM.
+*Engaged in Web development. I specialize in layout and further integration with CMS Wordpress. In total, he developed about 20 projects. I have experience with backend - Laravel (2 projects). I want to eventually get into serious full-stack development (React + Laravel). For this, I need good knowledge of JS, which the school gives. Before that, I used only JQuery, it was enough. **My dream is to work in EPAM.***
 
 ## Work experience
 
