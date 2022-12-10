@@ -12,6 +12,10 @@
 **AGE**  *49*<br>
 **GENDER**  *Mail*<br>
 
+**About me**
+
+Engaged in Web development. I specialize in layout and further integration with CMS Wordpress. In total, he developed about 20 projects. I have experience with backend - Laravel (2 projects). I want to eventually get into serious full-stack development React + Laravel. For this, I need good knowledge of JS, which the school gives. Before that, I used only JQuery, it was enough. My dream is to work in EPAM.
+
 ## Work experience
 
 **September 2020 - Now**  *Freelance*<br>
@@ -46,7 +50,7 @@
 
 ## Some of my work
 
-- [Vip auto-service Mercedes-Benz](https://mbservice.ua) 
+- [Vip auto-serviceMercedes-Benz](https://mbservice.ua) 
 - [Royal Palace Marmur](https://royalpalace-marmur.com.ua) 
 - [Armata Financial Group](http://my-portfolio.ho.ua/gfg/) 
 - [Royal Cafe](http://my-portfolio.ho.ua/cafe/) 
